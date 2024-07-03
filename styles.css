@@ -1,0 +1,15 @@
+html{
+  font-family:'Roboto', sans-serif;
+}
+
+hr{
+  border: none;
+   height: 1px;
+   background: rgba(255, 0, 183, 0.5);
+}
+
+h1{
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
